@@ -1,4 +1,3 @@
-<title></title>
 </head>
 <body>
 <div id="layout-content">
