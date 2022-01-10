@@ -11,7 +11,7 @@ Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yi
 
 ### CV
 
-This site was built using [GitHub Pages](https://www.facebook.com/yinan.liu.9480/).
+[Click here](https://www.facebook.com/yinan.liu.9480/).
 
 ### Contanct
 - yliu73@email.wm.edu
