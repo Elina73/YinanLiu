@@ -7,14 +7,15 @@
 Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.
 
 ### Experience
-1. Numbered
-2. List
-3. 
+- Numbered
+- List
+-  
 
 ### CV
 
 [Click here](https://www.facebook.com/yinan.liu.9480/).
 
+<br><br>
 ### Contanct
 - yliu73@email.wm.edu
 - 251 Jamestown Road, Williamsburg, VA 23185
