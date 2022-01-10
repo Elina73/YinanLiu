@@ -5,18 +5,15 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
             <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/software.html">Artifacts</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
-            <li class="active"><a href="https://insight-cal.github.io/">Research Group</a></li>
+            <li class="active"><a href="https://insight-cal.github.io/">CV</a></li>
           </ul>
       </div>
     </div>
 ## Welcome to Yinan's Homepage!
+    
 ![This is an image](https://scontent.forf1-3.fna.fbcdn.net/v/t39.30808-6/s1080x2048/271697177_654497889013215_8860179716274916753_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=06Fhfl3CCbYAX_o5Nrv&_nc_ht=scontent.forf1-3.fna&oh=00_AT8O5RunfXRa-e3q7_B--s4Ihtq9MLSHIboOcq6bTITb6A&oe=61E031F4)
-
+</td></tr></table>
+<h2>About</h2>
 ### Biography
 Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.
 
