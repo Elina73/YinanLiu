@@ -1,3 +1,5 @@
+<title></title>
+</head>
 <body>
 <div id="layout-content">
     <div class="navbar navbar-inverse" role="navigation">
