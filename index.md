@@ -11,7 +11,7 @@ Here is a piece of text.Here is a piece of text.
 Here is a piece of text. Here is a piece of text. Here is a piece of text. Here is a piece of text. Here is a piece of text. 
 
 
-<br><br><br>
+<br><br><br> <br>
 ### Biography
 Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.
 
@@ -20,7 +20,8 @@ Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yi
 ### Experience
 - Numbered
 - List
--  
+-
+
 <br>
 
 ### CV
