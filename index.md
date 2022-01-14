@@ -28,7 +28,7 @@ Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yinan.Hi, I'm Yi
 
 ### CV
 ***
-[Click here](https://www.facebook.com/yinan.liu.9480/).
+[Download CV](https://www.facebook.com/yinan.liu.9480/).
 
 <br>
 
