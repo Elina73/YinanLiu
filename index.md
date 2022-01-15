@@ -6,7 +6,7 @@ I am a master’s student in the computational operations research program at Wi
 I am interested in human-centric machine learning/data mining problems, including building forecasting models to predict humans’ behaviors, and determining how human and societal factors impact the design of technologies based on machine learning.
 
 Outside the research world, I also interned in Trends Media (GIVE LINK), Perfect World (GIVE LINK), and worked full-time in public service. Some sketches I did. 
-<br><br><br> <br>
+<br><br><br> <br><br> <br><br> <br>
 
 
 ### Experience
