@@ -18,7 +18,7 @@ Outside the research world, I also interned in Trends Media (GIVE LINK), Perfect
 
 ### CV
 ***
-[Download CV](https://www.facebook.com/yinan.liu.9480/).
+[Download CV](https://github.com/Elina73/elina73.GitHub.io/blob/gh-pages/cv_yinan_liu-jan14f.pdf).
 
 <br>
 
